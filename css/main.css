@@ -1,0 +1,104 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+  padding-top: 100px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-header {
+	color:#002C56;	
+	font-family: 'Montserrat', sans-serif;
+}
+
+.jobfield	{
+	margin:10px;	
+}
+
+#staff	{
+	height:50px;	
+}
+
+#jobNo	{
+	height:50px;	
+}
+
+.details	{
+	width:100%;
+}	
+._off{
+display: none;
+}
+.jobfield	{
+	width:200px;	
+}
+
+#timesheet input {
+	width:100%;	
+}
+#staff_box{
+margin-bottom: 15px;
+margin-left: 16px;
+}
+
+#heading 	{
+	font-family: 'Montserrat', sans-serif;
+	font-weight:bold;
+	width:100%;
+	text-align:centre;	
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#page_heading	{
+	font-size: 20px;
+	
+}
+
+#job_id	{
+	font-family: 'Montserrat', sans-serif;
+	padding:5px;	
+	margin:5px;
+}
+
+#client_name	{
+	font-family: 'Montserrat', sans-serif;
+	padding:5px;	
+	margin:5px;
+}
+
+
+#job_name	{
+	font-family: 'Montserrat', sans-serif;
+	padding:5px;	
+	margin:5px;
+}
+
+#quoted	{
+	font-family: 'Montserrat', sans-serif;
+	padding:5px;	
+	margin:5px;
+}
+
+#createjob	{
+	font-family: 'Montserrat', sans-serif;
+	padding:5px;	
+	margin:5px;
+}
+
+#intro_text	{
+	min-height: 20px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #17DCD3;
+    border: 1px solid #e3e3e3;
+    border-radius: 6px;
+    background-image: linear-gradient(to bottom,rgba(73, 154, 212, 0.79) 0,#1380A0 100%);
+    font-size: 15px;
+    color: #FFFFFF;	
+	font-family:'Montserrat', sans-serif;
+}
+.edit_job{
+	cursor: pointer;
+}
